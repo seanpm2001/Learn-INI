@@ -36,6 +36,9 @@
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=true
 *.json linguist-documentation=false
+# INI source file
+*.ini linguist-detectable=true
+*.ini linguist-documentation=false
 # PHP (PHP HyperText Preprocessor) source file
 *.php linguist-detectable=true
 *.php linguist-documentation=false
@@ -113,6 +116,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 3 (Monday, 2021 November 29th at 3:14 pm)
-# Line count (including blank lines and compiler line): 119
+# File version: 4 (Thursday, 2022 April 21st at 5:59 pm PST)
+# Line count (including blank lines and compiler line): 122
 # End of script
